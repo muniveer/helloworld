@@ -1,1 +1,1 @@
-# helloworld
+# eslint-plugin-github
